@@ -13,3 +13,4 @@ If you think something is missing, should be removed, or needs to be changed, pl
 ## Contacts
 If you have any questions or would like to get in touch, you can reach me at:
 - **LinkedIn:** [mohamedmekawy](https://www.linkedin.com/in/mohamedmekawy)
+- Follow me on YouTube for more videos on Compose Multiplatform (CMP): https://www.youtube.com/@mo-the-dev
