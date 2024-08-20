@@ -5,7 +5,9 @@ Welcome to the Compose Multiplatform RoadMap repository! This guide is your go-t
 As a developer aiming to excel in CMP, following this roadmap will equip you with the necessary skills and knowledge to build high-quality applications efficiently. Dive in, and let's start your journey to becoming a proficient Compose Multiplatform developer!
 
 ## RoadMap
+
 ![cmp roadmap](https://github.com/user-attachments/assets/94213fc2-27e5-4829-a9e5-4dd5fce6aa31)
+
 
 ## 🤝 Contribution
 If you think something is missing, should be removed, or needs to be changed, please create an issue or open a pull request with your idea.
